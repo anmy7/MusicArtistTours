@@ -1,0 +1,12 @@
+{"Timmy Trumpet": {"title": "", "date": "2023-07-23", "venue": "ParookaVille 2023", "location": "Weeze, Germany"}}
+{"Timmy Trumpet": {"title": "", "date": "2023-07-23", "venue": "Tomorrowland 2023", "location": "Boom, Belgium"}}
+{"Timmy Trumpet": {"title": "", "date": "2023-07-25", "venue": "FarOut Beach Club", "location": "\u00cdos, Greece"}}
+{"Timmy Trumpet": {"title": "", "date": "2023-07-27", "venue": "Cavo Paradiso Night Club", "location": "Mykonos, Greece"}}
+{"Timmy Trumpet": {"title": "", "date": "2023-07-30", "venue": "Tomorrowland 2023", "location": "Boom, Belgium"}}
+{"Timmy Trumpet": {"title": "", "date": "2023-08-03", "venue": "Lollapalooza", "location": "Chicago, IL"}}
+{"Timmy Trumpet": {"title": "", "date": "2023-07-23", "venue": "ParookaVille 2023", "location": "Weeze, Germany"}}
+{"Timmy Trumpet": {"title": "", "date": "2023-07-23", "venue": "Tomorrowland 2023", "location": "Boom, Belgium"}}
+{"Timmy Trumpet": {"title": "", "date": "2023-07-25", "venue": "FarOut Beach Club", "location": "\u00cdos, Greece"}}
+{"Timmy Trumpet": {"title": "", "date": "2023-07-27", "venue": "Cavo Paradiso Night Club", "location": "Mykonos, Greece"}}
+{"Timmy Trumpet": {"title": "", "date": "2023-07-30", "venue": "Tomorrowland 2023", "location": "Boom, Belgium"}}
+{"Timmy Trumpet": {"title": "", "date": "2023-08-03", "venue": "Lollapalooza", "location": "Chicago, IL"}}
