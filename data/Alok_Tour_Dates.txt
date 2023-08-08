@@ -1,4 +1,3 @@
-{"Alok": {"title": "", "date": "2023-07-21", "venue": "Parookaville Festival", "location": "Weeze, Germany"}}
 {"Alok": {"title": "", "date": "2023-08-11", "venue": "Big Night Live", "location": "Boston, MA, US"}}
 {"Alok": {"title": "", "date": "2023-08-12", "venue": "Ilesoniq", "location": "Montreal, QC, Canada"}}
 {"Alok": {"title": "", "date": "2023-08-12", "venue": "ILESONIQ Jour 1", "location": "Montreal, QC, Canada"}}

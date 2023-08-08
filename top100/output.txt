@@ -1,100 +1,100 @@
-{"artist": "Martin Garrix", "djMagTop": 1, "imagePath": "files/Martin Garrix.jpg"}
-{"artist": "David Guetta", "djMagTop": 2, "imagePath": "files/David Guetta.jpg"}
-{"artist": "Dimitri Vegas & Like Mike", "djMagTop": 3, "imagePath": "files/Dimitri Vegas & Like Mike.jpg"}
-{"artist": "Alok", "djMagTop": 4, "imagePath": "files/Alok.jpg"}
-{"artist": "Armin Van Buuren", "djMagTop": 5, "imagePath": "files/Armin Van Buuren.jpg"}
-{"artist": "Afrojack", "djMagTop": 6, "imagePath": "files/Afrojack.jpg"}
-{"artist": "Steve Aoki", "djMagTop": 7, "imagePath": "files/Steve Aoki.jpg"}
-{"artist": "Timmy Trumpet", "djMagTop": 8, "imagePath": "files/Timmy Trumpet.jpg"}
-{"artist": "Don Diablo", "djMagTop": 9, "imagePath": "files/Don Diablo.jpg"}
-{"artist": "Oliver Heldens", "djMagTop": 10, "imagePath": "files/Oliver Heldens.jpg"}
-{"artist": "Vintage Culture", "djMagTop": 11, "imagePath": "files/Vintage Culture.jpg"}
-{"artist": "KSHMR", "djMagTop": 12, "imagePath": "files/KSHMR.jpg"}
-{"artist": "R3hab", "djMagTop": 13, "imagePath": "files/R3hab.jpg"}
-{"artist": "Charlotte de Witte", "djMagTop": 14, "imagePath": "files/Charlotte de Witte.jpg"}
-{"artist": "Ti\u00ebsto", "djMagTop": 15, "imagePath": "files/Ti\u00ebsto.jpg"}
-{"artist": "Calvin Harris", "djMagTop": 16, "imagePath": "files/Calvin Harris.jpg"}
-{"artist": "Alan Walker", "djMagTop": 17, "imagePath": "files/Alan Walker.jpg"}
-{"artist": "W&W", "djMagTop": 18, "imagePath": "files/W&W.jpg"}
-{"artist": "Fedde Le Grand", "djMagTop": 19, "imagePath": "files/Fedde Le Grand.jpg"}
-{"artist": "Nicky Romero", "djMagTop": 20, "imagePath": "files/Nicky Romero.jpg"}
-{"artist": "Vini Vici", "djMagTop": 21, "imagePath": "files/Vini Vici.jpg"}
-{"artist": "Carl Cox", "djMagTop": 22, "imagePath": "files/Carl Cox.jpg"}
-{"artist": "Skrillex", "djMagTop": 23, "imagePath": "files/Skrillex.jpg"}
-{"artist": "Peggy Gou", "djMagTop": 24, "imagePath": "files/Peggy Gou.jpg"}
-{"artist": "GORDO", "djMagTop": 25, "imagePath": "files/GORDO.jpg"}
-{"artist": "Marshmello", "djMagTop": 26, "imagePath": "files/Marshmello.jpg"}
-{"artist": "Bassjackers", "djMagTop": 27, "imagePath": "files/Bassjackers.jpg"}
-{"artist": "Lost Frequencies", "djMagTop": 28, "imagePath": "files/Lost Frequencies.jpg"}
-{"artist": "Eric Prydz", "djMagTop": 29, "imagePath": "files/Eric Prydz.jpg"}
-{"artist": "Above & Beyond", "djMagTop": 30, "imagePath": "files/Above & Beyond.jpg"}
-{"artist": "Claptone", "djMagTop": 31, "imagePath": "files/Claptone.jpg"}
-{"artist": "Jamie Jones", "djMagTop": 32, "imagePath": "files/Jamie Jones.jpg"}
-{"artist": "Quintino", "djMagTop": 33, "imagePath": "files/Quintino.jpg"}
-{"artist": "Mariana Bo", "djMagTop": 34, "imagePath": "files/Mariana Bo.jpg"}
-{"artist": "Tujamo", "djMagTop": 35, "imagePath": "files/Tujamo.jpg"}
-{"artist": "Danny Avila", "djMagTop": 36, "imagePath": "files/Danny Avila.jpg"}
-{"artist": "Amelie Lens", "djMagTop": 37, "imagePath": "files/Amelie Lens.jpg"}
-{"artist": "Paul van Dyk", "djMagTop": 38, "imagePath": "files/Paul van Dyk.jpg"}
-{"artist": "Black Coffee", "djMagTop": 39, "imagePath": "files/Black Coffee.jpg"}
-{"artist": "Nervo", "djMagTop": 40, "imagePath": "files/Nervo.jpg"}
-{"artist": "Ummet Ozcan", "djMagTop": 41, "imagePath": "files/Ummet Ozcan.jpg"}
-{"artist": "ATB", "djMagTop": 42, "imagePath": "files/ATB.jpg"}
-{"artist": "Hardwell", "djMagTop": 43, "imagePath": "files/Hardwell.jpg"}
-{"artist": "DJ Snake", "djMagTop": 44, "imagePath": "files/DJ Snake.jpg"}
-{"artist": "VINAI", "djMagTop": 45, "imagePath": "files/VINAI.jpg"}
-{"artist": "The Chainsmokers", "djMagTop": 46, "imagePath": "files/The Chainsmokers.jpg"}
-{"artist": "Alison Wonderland", "djMagTop": 47, "imagePath": "files/Alison Wonderland.jpg"}
-{"artist": "FISHER", "djMagTop": 48, "imagePath": "files/FISHER.jpg"}
-{"artist": "Reinier Zonneveld", "djMagTop": 49, "imagePath": "files/Reinier Zonneveld.jpg"}
-{"artist": "Deborah De Luca", "djMagTop": 50, "imagePath": "files/Deborah De Luca.jpg"}
-{"artist": "Adam Beyer", "djMagTop": 51, "imagePath": "files/Adam Beyer.jpg"}
-{"artist": "Blasterjaxx", "djMagTop": 52, "imagePath": "files/Blasterjaxx.jpg"}
-{"artist": "Beauz", "djMagTop": 53, "imagePath": "files/Beauz.jpg"}
-{"artist": "Diego Miranda", "djMagTop": 54, "imagePath": "files/Diego Miranda.jpg"}
-{"artist": "REZZ", "djMagTop": 55, "imagePath": "files/REZZ.jpg"}
-{"artist": "MORTEN", "djMagTop": 56, "imagePath": "files/MORTEN.jpg"}
-{"artist": "Nora En Pure", "djMagTop": 57, "imagePath": "files/Nora En Pure.jpg"}
-{"artist": "Zedd", "djMagTop": 58, "imagePath": "files/Zedd.jpg"}
-{"artist": "Carta", "djMagTop": 59, "imagePath": "files/Carta.jpg"}
-{"artist": "Julian Jordan", "djMagTop": 60, "imagePath": "files/Julian Jordan.jpg"}
-{"artist": "Boris Brejcha", "djMagTop": 61, "imagePath": "files/Boris Brejcha.jpg"}
-{"artist": "Will Sparks", "djMagTop": 62, "imagePath": "files/Will Sparks.jpg"}
-{"artist": "Angerfist", "djMagTop": 63, "imagePath": "files/Angerfist.jpg"}
-{"artist": "Alesso", "djMagTop": 64, "imagePath": "files/Alesso.jpg"}
-{"artist": "Deadmau5", "djMagTop": 65, "imagePath": "files/Deadmau5.jpg"}
-{"artist": "Cat Dealers", "djMagTop": 66, "imagePath": "files/Cat Dealers.jpg"}
-{"artist": "Joel Corry", "djMagTop": 67, "imagePath": "files/Joel Corry.jpg"}
-{"artist": "Brennan Heart", "djMagTop": 68, "imagePath": "files/Brennan Heart.jpg"}
-{"artist": "Topic", "djMagTop": 69, "imagePath": "files/Topic.jpg"}
-{"artist": "KAAZE", "djMagTop": 70, "imagePath": "files/KAAZE.jpg"}
-{"artist": "Tom & Collins", "djMagTop": 71, "imagePath": "files/Tom & Collins.jpg"}
-{"artist": "Plastik Funk", "djMagTop": 72, "imagePath": "files/Plastik Funk.jpg"}
-{"artist": "Kura", "djMagTop": 73, "imagePath": "files/Kura.jpg"}
-{"artist": "Naeleck", "djMagTop": 74, "imagePath": "files/Naeleck.jpg"}
-{"artist": "Pink Panda", "djMagTop": 75, "imagePath": "files/Pink Panda.jpg"}
-{"artist": "Burak Yeter", "djMagTop": 76, "imagePath": "files/Burak Yeter.jpg"}
-{"artist": "Swedish House Mafia", "djMagTop": 77, "imagePath": "files/Swedish House Mafia.jpg"}
-{"artist": "MATTN", "djMagTop": 78, "imagePath": "files/MATTN.jpg"}
-{"artist": "Breathe Carolina", "djMagTop": 79, "imagePath": "files/Breathe Carolina.jpg"}
-{"artist": "Ofenbach", "djMagTop": 80, "imagePath": "files/Ofenbach.jpg"}
-{"artist": "Tungevaag", "djMagTop": 81, "imagePath": "files/Tungevaag.jpg"}
-{"artist": "Green Velvet", "djMagTop": 82, "imagePath": "files/Green Velvet.jpg"}
-{"artist": "22Bullets", "djMagTop": 83, "imagePath": "files/22Bullets.jpg"}
-{"artist": "Lucas & Steve", "djMagTop": 84, "imagePath": "files/Lucas & Steve.jpg"}
-{"artist": "Mr Pig", "djMagTop": 85, "imagePath": "files/Mr Pig.jpg"}
-{"artist": "Aryue", "djMagTop": 86, "imagePath": "files/Aryue.jpg"}
-{"artist": "Ferry Corsten", "djMagTop": 87, "imagePath": "files/Ferry Corsten.jpg"}
-{"artist": "Solomun", "djMagTop": 88, "imagePath": "files/Solomun.jpg"}
-{"artist": "Miss K8", "djMagTop": 89, "imagePath": "files/Miss K8.jpg"}
-{"artist": "Honey Dijon", "djMagTop": 90, "imagePath": "files/Honey Dijon.jpg"}
-{"artist": "Acraze", "djMagTop": 91, "imagePath": "files/Acraze.jpg"}
-{"artist": "Le Twins", "djMagTop": 92, "imagePath": "files/Le Twins.jpg"}
-{"artist": "Dubdogz", "djMagTop": 93, "imagePath": "files/Dubdogz.jpg"}
-{"artist": "Rave Republic", "djMagTop": 94, "imagePath": "files/Rave Republic.jpg"}
-{"artist": "KAKA", "djMagTop": 95, "imagePath": "files/KAKA.jpg"}
-{"artist": "Sunnery James & Ryan Marciano", "djMagTop": 96, "imagePath": "files/Sunnery James & Ryan Marciano.jpg"}
-{"artist": "Maya Jane Coles", "djMagTop": 97, "imagePath": "files/Maya Jane Coles.jpg"}
-{"artist": "Jay Hardway", "djMagTop": 98, "imagePath": "files/Jay Hardway.jpg"}
-{"artist": "Cuebrick", "djMagTop": 99, "imagePath": "files/Cuebrick.jpg"}
-{"artist": "The Martinez Brothers", "djMagTop": 100, "imagePath": "files/The Martinez Brothers.jpg"}
+{"artist": "Martin Garrix", "djMagTop": 1, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_961x540_jpg/public/2022-10/MGlifestyle-3.jpg?itok=K9D3Ick2"}
+{"artist": "David Guetta", "djMagTop": 2, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_991x533_jpg/public/2022-10/20210826_GuilleGS_HighScream_DavidGuetta_Creamfields_2048px_78.jpg?itok=fVNw1kgX"}
+{"artist": "Dimitri Vegas & Like Mike", "djMagTop": 3, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_991x533_jpg/public/2022-10/DVLM%202.jpg?itok=qSe62Q2F"}
+{"artist": "Alok", "djMagTop": 4, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_991x533_jpg/public/2022-10/04.jpg?itok=S81H3iLn"}
+{"artist": "Armin Van Buuren", "djMagTop": 5, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_991x533_jpg/public/2022-10/5.%20Armin%20Van%20Buuren%20LY.jpeg.jpg?itok=mpCVgzGW"}
+{"artist": "Afrojack", "djMagTop": 6, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_991x533_jpg/public/2022-10/6.%20Afrojack.jpg?itok=zDXRBD-M"}
+{"artist": "Steve Aoki", "djMagTop": 7, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_991x533_jpg/public/2022-10/Press%20Photo%20-%20Steve%20Aoki%20%28credit%20xavierluggage%29.jpg?itok=9LvpT4IS"}
+{"artist": "Timmy Trumpet", "djMagTop": 8, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_991x533_jpg/public/2022-10/8.%20Timmy%20Trumpet%202.jpg?itok=bpfVRT6Q"}
+{"artist": "Don Diablo", "djMagTop": 9, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_991x533_jpg/public/2022-10/8.%20Don%20Diablo%20Cr.%20Jasper%20Suyk%202.jpg?itok=XxmsNmg6"}
+{"artist": "Oliver Heldens", "djMagTop": 10, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/10.%20Oliver%20Heldens%202.jpg?itok=RAkE2KOP"}
+{"artist": "Vintage Culture", "djMagTop": 11, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/DSC04645%20pb.jpg?itok=gLkHPmPB"}
+{"artist": "KSHMR", "djMagTop": 12, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/12.%20KSHMR%20LY.jpeg.jpg?itok=dGcHCTrJ"}
+{"artist": "R3hab", "djMagTop": 13, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/gradient-1.jpg?itok=Q5wL_nRz"}
+{"artist": "Charlotte de Witte", "djMagTop": 14, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/14.%20Charlotte%20de%20Witte_0.jpg?itok=c5sjjpa-"}
+{"artist": "Ti\u00ebsto", "djMagTop": 15, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/15.%20Tiesto%202.png.jpg?itok=gcOi9CmJ"}
+{"artist": "Calvin Harris", "djMagTop": 16, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/DSC_4296.jpg?itok=IodjGCyH"}
+{"artist": "Alan Walker", "djMagTop": 17, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/AW_Press_Photo_3.jpg?itok=b3K02PcL"}
+{"artist": "W&W", "djMagTop": 18, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/willemenward-profile-redblue-3_0.jpg?itok=P58Tvut6"}
+{"artist": "Fedde Le Grand", "djMagTop": 19, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/19.%20Fedde%20Le%20Grand.JPG.jpg?itok=K_LH7vNi"}
+{"artist": "Nicky Romero", "djMagTop": 20, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/20.%20Nicky%20Romero%20Cr.Mees%20Berkouwer%202.jpg?itok=B5mm-TtS"}
+{"artist": "Vini Vici", "djMagTop": 21, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/21.%20Vini%20Vici%202.jpg?itok=9xMspQmI"}
+{"artist": "Carl Cox", "djMagTop": 22, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/2_0.jpg?itok=yO1quSTL"}
+{"artist": "Skrillex", "djMagTop": 23, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/23.%20Skrillex%20LY%20FB.jpg?itok=ZxkkoP-Z"}
+{"artist": "Peggy Gou", "djMagTop": 24, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/IMG_9039.jpeg.jpg?itok=LgyEFkNx"}
+{"artist": "GORDO", "djMagTop": 25, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/25.%20Gordo.jpg?itok=NwC8QFfW"}
+{"artist": "Marshmello", "djMagTop": 26, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/quick-13.jpg?itok=TPnxraOU"}
+{"artist": "Bassjackers", "djMagTop": 27, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/27.%20Bassjackers.jpg?itok=2v67rlUp"}
+{"artist": "Lost Frequencies", "djMagTop": 28, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/pers%20lf%204.jpeg.jpg?itok=cKpj7oPp"}
+{"artist": "Eric Prydz", "djMagTop": 29, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/29.%20Eric%20Prydz.jpg?itok=bRsIu2tE"}
+{"artist": "Above & Beyond", "djMagTop": 30, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/30.%20Above%20%26%20Beyond%20Cr.%20Luke%20Dyson%2C%20Mary%20Parhiala.jpg?itok=aptQZwiB"}
+{"artist": "Claptone", "djMagTop": 31, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/01_Claptone%20Summer%202022%20-%20Lilly%20Rumler.jpg?itok=r2DCO1NE"}
+{"artist": "Jamie Jones", "djMagTop": 32, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/2_1.jpg?itok=bPbYAIP3"}
+{"artist": "Quintino", "djMagTop": 33, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/33.%20Quintino.jpg?itok=a071OPoQ"}
+{"artist": "Mariana Bo", "djMagTop": 34, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/34.%20Mariana%20Bo_0.jpg?itok=ZQY_nzPg"}
+{"artist": "Tujamo", "djMagTop": 35, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/Tujamo_08.jpg?itok=5ymHSn1j"}
+{"artist": "Danny Avila", "djMagTop": 36, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/36.%20Danny%20Avila.JPG.jpg?itok=gRUYcgql"}
+{"artist": "Amelie Lens", "djMagTop": 37, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/AmelieLens1_by_Zeb_Daemen.jpg?itok=gbGYAnJg"}
+{"artist": "Paul van Dyk", "djMagTop": 38, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/38.%20PVD%20Cr.%20Christoph%20Ko%CC%88stlin.jpg?itok=6TByM859"}
+{"artist": "Black Coffee", "djMagTop": 39, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/Press%20Photo%201.jpg?itok=mTC30mLe"}
+{"artist": "Nervo", "djMagTop": 40, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/unspecified-6.jpg?itok=DtG1bheQ"}
+{"artist": "Ummet Ozcan", "djMagTop": 41, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/41.%20Ummet%20Ozcan.png.jpg?itok=fqa-Pv3D"}
+{"artist": "ATB", "djMagTop": 42, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/42.%20ATB.jpeg.jpg?itok=9mrXK5us"}
+{"artist": "Hardwell", "djMagTop": 43, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/43.%20Hardwell.jpg?itok=yrXwOgt4"}
+{"artist": "DJ Snake", "djMagTop": 44, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/IMG_7363e%20%281%29.jpg?itok=6vOwxGi3"}
+{"artist": "VINAI", "djMagTop": 45, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/VINAI%20PRESS%20PIC%202022%204%20-%20VINAI%20djs.jpg?itok=QTwuImNp"}
+{"artist": "The Chainsmokers", "djMagTop": 46, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/20210812_The_Chainsmokers_S07_CASES_MM_1618.jpg?itok=1ETo8ZfL"}
+{"artist": "Alison Wonderland", "djMagTop": 47, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/Alison%20Wonderland%20-%20Secondary%20Media%20Image%20-%20March%202022%20-%20Photo%20Credit%20%27Simply%20G%27%20-%20Tracy%20Weston.jpg?itok=UkgphSx0"}
+{"artist": "FISHER", "djMagTop": 48, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/48.%20FISHER.jpg?itok=LzZupU2W"}
+{"artist": "Reinier Zonneveld", "djMagTop": 49, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/49.%20Reinier%20Zonneveld%20Cr.%20Cooper%20Seykens.jpg?itok=LZkmlJJU"}
+{"artist": "Deborah De Luca", "djMagTop": 50, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/_DSC3001%2B.JPG.jpg?itok=UcdP1Mjc"}
+{"artist": "Adam Beyer", "djMagTop": 51, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/3.jpg?itok=WWGzn5af"}
+{"artist": "Blasterjaxx", "djMagTop": 52, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/BJX_Presskit_2021_A.png.jpg?itok=LES3wJoc"}
+{"artist": "Beauz", "djMagTop": 53, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/52.%20Beauz.JPG.jpg?itok=OHIVvpp5"}
+{"artist": "Diego Miranda", "djMagTop": 54, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/54.%20Diego%20Miranda.jpg?itok=egyQ-KAZ"}
+{"artist": "REZZ", "djMagTop": 55, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/Rezz_JustinBroadbent_0053.png.jpg?itok=l-BVNONY"}
+{"artist": "MORTEN", "djMagTop": 56, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/56.%20MORTEN%20Cr.%20Jae%CC%88lle%20Gu%CC%88nther_0.jpg?itok=oEGUa5C7"}
+{"artist": "Nora En Pure", "djMagTop": 57, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/NEP2022-PressOnly-03-Copyright-Jon-Correal.JPG.jpg?itok=5JlfpkFg"}
+{"artist": "Zedd", "djMagTop": 58, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/58.%20Zedd%20PK.png.jpg?itok=hvfowu8U"}
+{"artist": "Carta", "djMagTop": 59, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/59.%20Carta.jpg?itok=am459qGi"}
+{"artist": "Julian Jordan", "djMagTop": 60, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/60.%20Julian%20Jordan.jpg?itok=sH7CSwk2"}
+{"artist": "Boris Brejcha", "djMagTop": 61, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/Picture%2001%20-%20Alex%20Flatner.jpeg.jpg?itok=WXY2gA19"}
+{"artist": "Will Sparks", "djMagTop": 62, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/62.%20Will%20Sparks.jpeg.jpg?itok=05ZdiRvC"}
+{"artist": "Angerfist", "djMagTop": 63, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/63.%20Angerfist.jpeg.jpg?itok=J1WZpq0I"}
+{"artist": "Alesso", "djMagTop": 64, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/64.%20Alesso.jpg?itok=E3WhAFmr"}
+{"artist": "Deadmau5", "djMagTop": 65, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/65.%20Deadmau5.jpg?itok=BK8dhNFn"}
+{"artist": "Cat Dealers", "djMagTop": 66, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/press%20kit%202022%20green16.jpg?itok=MTBoofL_"}
+{"artist": "Joel Corry", "djMagTop": 67, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/67.%20Joel%20Corry%20Cr.%20Cathelijne%20Noortman.jpg?itok=azQbkxx-"}
+{"artist": "Brennan Heart", "djMagTop": 68, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/68.%20Brennan%20Heart.jpg?itok=vOZ94rYF"}
+{"artist": "Topic", "djMagTop": 69, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/69.%20Topic.jpg?itok=GzJ8Mz4r"}
+{"artist": "KAAZE", "djMagTop": 70, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/7x5%20horizontal%20crop%20-%20KAAZE.jpg?itok=MRhsY7VB"}
+{"artist": "Tom & Collins", "djMagTop": 71, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/71.%20Tom%20%26%20Collins.jpg?itok=YIHnPSRT"}
+{"artist": "Plastik Funk", "djMagTop": 72, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/72.%20Plastic%20Funk.jpg?itok=Ngx8P540"}
+{"artist": "Kura", "djMagTop": 73, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/73.%20Kura.jpeg.jpg?itok=QCLOdLbi"}
+{"artist": "Naeleck", "djMagTop": 74, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/Naeleck%20-%20Dark%20300dpi.jpg?itok=SxOxsMhm"}
+{"artist": "Pink Panda", "djMagTop": 75, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/Photo%2003-01-2022%2C%2014%2026%2037.jpg?itok=-nz3C0kI"}
+{"artist": "Burak Yeter", "djMagTop": 76, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/76.%20Burak%20Yeter.jpg?itok=leBEaouY"}
+{"artist": "Swedish House Mafia", "djMagTop": 77, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/SHM-photo-credit-Alexander-Wessely-3WEB.jpeg.jpg?itok=T95tu8vG"}
+{"artist": "MATTN", "djMagTop": 78, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/image00008%20-%20Elise%20Vangeel.jpeg.jpg?itok=pRHPBFme"}
+{"artist": "Breathe Carolina", "djMagTop": 79, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/79.%20Breathe%20Carolina.jpeg.jpg?itok=ZElRUbtK"}
+{"artist": "Ofenbach", "djMagTop": 80, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/80.%20Ofenbach.jpg?itok=lcepzroa"}
+{"artist": "Tungevaag", "djMagTop": 81, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/81.%20Tungevaag.jpg?itok=9pHm_i_C"}
+{"artist": "Green Velvet", "djMagTop": 82, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/13.%20green%20velvet%20alt.jpg?itok=MF0eUvTn"}
+{"artist": "22Bullets", "djMagTop": 83, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/83.%2022Bullets.jpg?itok=dyUhL7jT"}
+{"artist": "Lucas & Steve", "djMagTop": 84, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/84.%20Lucas%20%26%20Steve%20Cr.Mickelle%20Heijmans.jpg?itok=tnU00eJS"}
+{"artist": "Mr Pig", "djMagTop": 85, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/85.%20Mr%20Pig.jpg?itok=VuiEH_Ci"}
+{"artist": "Aryue", "djMagTop": 86, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/86.%20Aryue.jpg?itok=hbD0_gBv"}
+{"artist": "Ferry Corsten", "djMagTop": 87, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/Ferry%20Press%20Photo%201.jpg?itok=tsZ-JCiS"}
+{"artist": "Solomun", "djMagTop": 88, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/88.%20Solomun%20PK.jpg?itok=ZQHUMYhn"}
+{"artist": "Miss K8", "djMagTop": 89, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/89.%20Miss%20K8.jpg?itok=kk6NB5Ht"}
+{"artist": "Honey Dijon", "djMagTop": 90, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/90.%20Honey%20Dijon%20PK_0.jpg?itok=5PdnLHfA"}
+{"artist": "Acraze", "djMagTop": 91, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/91.%20Acraaze%20Cr.%20Thomas%20Jimenez.jpg?itok=juEGCD2K"}
+{"artist": "Le Twins", "djMagTop": 92, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/92.%20Le%20Twins.jpeg.jpg?itok=RcpyDNuz"}
+{"artist": "Dubdogz", "djMagTop": 93, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/_J6A4156.jpeg.jpg?itok=xMhWBU65"}
+{"artist": "Rave Republic", "djMagTop": 94, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/94.%20Rave%20Republic.jpg?itok=ojatX15G"}
+{"artist": "KAKA", "djMagTop": 95, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/95.%20KAKA.jpg?itok=oNLQGlTH"}
+{"artist": "Sunnery James & Ryan Marciano", "djMagTop": 96, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/96.%20Sunnery%20%26%20Ryan%20Cr.Krijn%20Van%20Nordwijk.jpg?itok=1NqnGlhf"}
+{"artist": "Maya Jane Coles", "djMagTop": 97, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/97.%20Maya%20Jane%20Coles.jpg?itok=gDev-f8i"}
+{"artist": "Jay Hardway", "djMagTop": 98, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/16x9_Presskit_2022.jpg?itok=PfKb0T4E"}
+{"artist": "Cuebrick", "djMagTop": 99, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/99.%20Cuebrick.jpg?itok=19y3o0Yb"}
+{"artist": "The Martinez Brothers", "djMagTop": 100, "imagePath": "https://djmag.com/sites/default/files/styles/djm_23_323x182_jpg/public/2022-10/1_2.jpeg.jpg?itok=V8vk4GZ5"}

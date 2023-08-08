@@ -35,3 +35,7 @@
 {"Martin Garrix": {"title": "", "date": "2023-09-30", "venue": "Wet Republic", "location": "Las Vegas, United States"}}
 {"Martin Garrix": {"title": "", "date": "2023-10-06", "venue": "Omnia Nightclub", "location": "Las Vegas, USA"}}
 {"Martin Garrix": {"title": "", "date": "2023-10-12", "venue": "Tomorrowland Brazil (Date to be announced)", "location": "Itu, S\u00e3o Paulo, Brazil"}}
+{"Martin Garrix": {"title": "", "date": "2023-10-20", "venue": "Martin Garrix (Sold Out)", "location": "Amsterdam, The Netherlands"}}
+{"Martin Garrix": {"title": "", "date": "2023-10-21", "venue": "Martin Garrix (Sold Out)", "location": "Amsterdam, The Netherlands"}}
+{"Martin Garrix": {"title": "", "date": "2023-10-27", "venue": "Omnia Nightclub", "location": "Las Vegas, USA"}}
+{"Martin Garrix": {"title": "", "date": "2023-11-04", "venue": "Vision & Colour Music Festival", "location": "Wuhan, China"}}

@@ -1,12 +1,12 @@
-{"Timmy Trumpet": {"title": "", "date": "2023-07-23", "venue": "ParookaVille 2023", "location": "Weeze, Germany"}}
-{"Timmy Trumpet": {"title": "", "date": "2023-07-23", "venue": "Tomorrowland 2023", "location": "Boom, Belgium"}}
-{"Timmy Trumpet": {"title": "", "date": "2023-07-25", "venue": "FarOut Beach Club", "location": "\u00cdos, Greece"}}
-{"Timmy Trumpet": {"title": "", "date": "2023-07-27", "venue": "Cavo Paradiso Night Club", "location": "Mykonos, Greece"}}
-{"Timmy Trumpet": {"title": "", "date": "2023-07-30", "venue": "Tomorrowland 2023", "location": "Boom, Belgium"}}
-{"Timmy Trumpet": {"title": "", "date": "2023-08-03", "venue": "Lollapalooza", "location": "Chicago, IL"}}
-{"Timmy Trumpet": {"title": "", "date": "2023-07-23", "venue": "ParookaVille 2023", "location": "Weeze, Germany"}}
-{"Timmy Trumpet": {"title": "", "date": "2023-07-23", "venue": "Tomorrowland 2023", "location": "Boom, Belgium"}}
-{"Timmy Trumpet": {"title": "", "date": "2023-07-25", "venue": "FarOut Beach Club", "location": "\u00cdos, Greece"}}
-{"Timmy Trumpet": {"title": "", "date": "2023-07-27", "venue": "Cavo Paradiso Night Club", "location": "Mykonos, Greece"}}
-{"Timmy Trumpet": {"title": "", "date": "2023-07-30", "venue": "Tomorrowland 2023", "location": "Boom, Belgium"}}
-{"Timmy Trumpet": {"title": "", "date": "2023-08-03", "venue": "Lollapalooza", "location": "Chicago, IL"}}
+{"Timmy Trumpet": {"title": "", "date": "2023-08-11", "venue": "Das Energi 2023", "location": "Magna, UT"}}
+{"Timmy Trumpet": {"title": "", "date": "2023-08-12", "venue": "Marquee Nightclub", "location": "Las Vegas, NV"}}
+{"Timmy Trumpet": {"title": "", "date": "2023-08-18", "venue": "Unity Electro Festival 2023", "location": "Qu\u00e9bec, QC"}}
+{"Timmy Trumpet": {"title": "", "date": "2023-08-19", "venue": "The Ritz Ybor", "location": "Tampa, FL"}}
+{"Timmy Trumpet": {"title": "", "date": "2023-08-22", "venue": "Amnesia Cap d'Agde", "location": "Agde, France"}}
+{"Timmy Trumpet": {"title": "", "date": "2023-08-25", "venue": "SZIN: Szegedi Ifj\u00fas\u00e1gi Napok 2023", "location": "Szeged, Hungary"}}
+{"Timmy Trumpet": {"title": "", "date": "2023-08-11", "venue": "Das Energi 2023", "location": "Magna, UT"}}
+{"Timmy Trumpet": {"title": "", "date": "2023-08-12", "venue": "Marquee Nightclub", "location": "Las Vegas, NV"}}
+{"Timmy Trumpet": {"title": "", "date": "2023-08-18", "venue": "Unity Electro Festival 2023", "location": "Qu\u00e9bec, QC"}}
+{"Timmy Trumpet": {"title": "", "date": "2023-08-19", "venue": "The Ritz Ybor", "location": "Tampa, FL"}}
+{"Timmy Trumpet": {"title": "", "date": "2023-08-22", "venue": "Amnesia Cap d'Agde", "location": "Agde, France"}}
+{"Timmy Trumpet": {"title": "", "date": "2023-08-25", "venue": "SZIN: Szegedi Ifj\u00fas\u00e1gi Napok 2023", "location": "Szeged, Hungary"}}

@@ -1,3 +1,5 @@
 config.ini
 get-pip.py
 test.py
+/gui/node_modules/
+/gui/config.js

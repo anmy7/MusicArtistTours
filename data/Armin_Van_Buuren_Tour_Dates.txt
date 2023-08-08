@@ -1,16 +1,20 @@
-{"Armin Van Buuren": {"title": "", "date": "2023-07-29", "venue": "Tomorrowland", "location": "Boom, Belgium"}}
-{"Armin Van Buuren": {"title": "", "date": "2023-07-30", "venue": "Tomorrowland", "location": "Boom, Belgium"}}
-{"Armin Van Buuren": {"title": "", "date": "2023-08-04", "venue": "Les Plages Electroniques", "location": "Cannes, France"}}
-{"Armin Van Buuren": {"title": "", "date": "2023-08-05", "venue": "Big Slap", "location": "Malm\u00f6, Sweden"}}
-{"Armin Van Buuren": {"title": "", "date": "2023-08-06", "venue": "Untold", "location": "Cluj-Napoca, Romania"}}
 {"Armin Van Buuren": {"title": "", "date": "2023-08-10", "venue": "Dreambeach", "location": "Cuevas de Almanzora, Spain"}}
 {"Armin Van Buuren": {"title": "", "date": "2023-08-11", "venue": "Sonne Mond Sterne", "location": "Saalburg-Ebersdorf, Germany"}}
 {"Armin Van Buuren": {"title": "", "date": "2023-08-12", "venue": "Insomnia festival", "location": "Zurich, Switzerland"}}
+{"Armin Van Buuren": {"title": "", "date": "2023-08-13", "venue": "Sunset Square", "location": "Gdynia, Poland"}}
 {"Armin Van Buuren": {"title": "", "date": "2023-08-18", "venue": "Wondersala", "location": "Riga, Latvia"}}
 {"Armin Van Buuren": {"title": "", "date": "2023-08-19", "venue": "Frequency festival", "location": "Sankt P\u00f6lten, Austria"}}
 {"Armin Van Buuren": {"title": "", "date": "2023-08-26", "venue": "Creamfields", "location": "Halton, United Kingdom"}}
 {"Armin Van Buuren": {"title": "", "date": "2023-09-02", "venue": "Hullabaloo", "location": "Groningen, Netherlands"}}
 {"Armin Van Buuren": {"title": "", "date": "2023-09-03", "venue": "Ushua\u00efa", "location": "Sant Jordi de ses Salines, Spain"}}
 {"Armin Van Buuren": {"title": "", "date": "2023-09-10", "venue": "Ushua\u00efa", "location": "Sant Jordi de ses Salines, Spain"}}
-{"Armin Van Buuren": {"title": "", "date": "2023-09-17", "venue": "Ushua\u00efa", "location": "Location to be announced"}}
+{"Armin Van Buuren": {"title": "", "date": "2023-09-17", "venue": "Ushua\u00efa", "location": "Sant Jordi de ses Salines, Spain"}}
+{"Armin Van Buuren": {"title": "", "date": "2023-09-22", "venue": "Life Park", "location": "Istanbul, Turkey"}}
 {"Armin Van Buuren": {"title": "", "date": "2023-09-24", "venue": "Ushua\u00efa", "location": "Sant Jordi de ses Salines, Spain"}}
+{"Armin Van Buuren": {"title": "", "date": "2023-10-05", "venue": "Sunburn Arena Bengaluru", "location": "Bengaluru, India"}}
+{"Armin Van Buuren": {"title": "", "date": "2023-10-06", "venue": "Sunburn Arena Mumbai", "location": "Mumbai, India"}}
+{"Armin Van Buuren": {"title": "", "date": "2023-10-07", "venue": "Sunburn Arena Kolkata", "location": "Kalkota, India"}}
+{"Armin Van Buuren": {"title": "", "date": "2023-10-08", "venue": "Sunburn Arena Delhi NCR", "location": "Delhi NCR, India"}}
+{"Armin Van Buuren": {"title": "", "date": "2023-10-21", "venue": "Amsterdam Music Festival", "location": "Amsterdam, Netherlands"}}
+{"Armin Van Buuren": {"title": "", "date": "2023-10-27", "venue": "BOO Seattle", "location": "Seattle, Unites States"}}
+{"Armin Van Buuren": {"title": "", "date": "2023-10-28", "venue": "Escape Halloween", "location": "San Bernardino, United States"}}
